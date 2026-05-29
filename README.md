@@ -1,6 +1,6 @@
 # Predicting Accident Severity on UK Road Traffic Data
 
-CSC1144 – Data Analytics & Data Mining | MSc in Computing (Data Analytics) | Spring 2026 | Dublin City University
+**CSC1144 – Data Analytics & Data Mining | MSc in Computing (Data Analytics) | Spring 2026 | Dublin City University**
 
 Multi-stage data mining framework combining statistical feature selection (Cramér's V), ensemble classification (Random Forest, XGBoost with SMOTE), and Association Rule Mining (Apriori) on the 2024 UK STATS19 dataset (128K+ records) to predict collision severity and discover high-risk accident profiles. 
 
