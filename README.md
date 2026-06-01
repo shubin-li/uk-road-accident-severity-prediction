@@ -4,6 +4,8 @@
 
 Multi-stage data mining framework combining statistical feature selection (Cramér's V), ensemble classification (Random Forest, XGBoost with SMOTE), and Association Rule Mining (Apriori) on the 2024 UK STATS19 dataset (128K+ records) to predict collision severity and discover high-risk accident profiles. 
 
+📄 **[View full notebook on nbviewer](https://nbviewer.org/github/shubin-li/uk-road-accident-severity-prediction/blob/main/data%20mining%20project.ipynb)** — if GitHub fails to render the notebook
+
 ## Overview
 
 Road accident severity is influenced by complex interactions between vehicle type, road environment, and driver behaviour — factors that traditional univariate analysis fails to capture. This project applies a three-phase data mining pipeline to the UK Department for Transport's STATS19 dataset to both **predict** accident severity (Fatal / Serious / Slight) and **discover** interpretable risk patterns for policy recommendations.
