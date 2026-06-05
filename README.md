@@ -65,7 +65,8 @@ Evaluated **7 model configurations** across 3 algorithm families:
 
 ```
 ├── uk_road_accident_analysis.ipynb    # Full analysis notebook
-├── report.pdf                         # Academic paper (IEEE format)
+├── Report.pdf                         # Academic paper (IEEE format)
+├── Presentation.pptx                  # Project presentation slides
 └── README.md
 ```
 
