@@ -64,8 +64,8 @@ Evaluated **7 model configurations** across 3 algorithm families:
 ## Project Structure
 
 ```
-├── data_mining_project.ipynb    # Full analysis notebook
-├── report.pdf                   # Academic paper (IEEE format)
+├── uk_road_accident_analysis.ipynb    # Full analysis notebook
+├── report.pdf                         # Academic paper (IEEE format)
 └── README.md
 ```
 
